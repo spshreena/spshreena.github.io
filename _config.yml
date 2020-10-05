@@ -1,2 +1,4 @@
 name: Shreena Pyakurel
 markdown: kramdown
+
+theme: jekyll-theme-slate
